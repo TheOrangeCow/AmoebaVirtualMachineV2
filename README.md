@@ -53,3 +53,11 @@ This code proformes 4 + 5 and stores the output
 </code>
 This code dose 27 + 42 and prints the output
 
+### Pictures  
+<img width="397" height="325" alt="image" src="https://github.com/user-attachments/assets/0a3bfd81-6de6-4a02-9072-b7ecc6be3e8a" />
+<img width="393" height="420" alt="image" src="https://github.com/user-attachments/assets/d20de13d-30fc-44ee-ac8b-b2e713762399" />
+<img width="674" height="621" alt="image" src="https://github.com/user-attachments/assets/fabaecfb-6070-44a5-b8ed-84de7ca44759" />
+
+
+
+
