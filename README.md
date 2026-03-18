@@ -38,7 +38,7 @@ This is the operation codes also find a pdf version <a href ="/TheAmoebaV2Operat
 00010010
 11110000
 </code>
-This code proformes 4 + 5 and stores the output
+This code does 4 + 5 (= 9) and stores the output.
 
 <code>
 00101111
@@ -52,7 +52,7 @@ This code proformes 4 + 5 and stores the output
 11000000
 11110000
 </code>
-This code dose 27 + 42 and prints the output
+This code does 27 + 42 (= 69) and prints the output.
 
 ### Pictures  
 <img width="397" height="325" alt="image" src="https://github.com/user-attachments/assets/0a3bfd81-6de6-4a02-9072-b7ecc6be3e8a" />
