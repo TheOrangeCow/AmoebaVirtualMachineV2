@@ -2,8 +2,8 @@
 This is a VBA program that emulates a simple Von Neumann architecture computer.
 
 ### Downloads
-- amoeba.exe: run directly (no installation) [Download here]()
-- amoeba-setup.exe: installer (adds to Start Menu) [Download here]()
+- amoeba.exe: run directly (no installation) [Download here](https://github.com/TheOrangeCow/AmoebaVirtualMachine/releases/tag/v3.8)
+- amoeba-setup.exe: installer (adds to Start Menu) [Download here](https://github.com/TheOrangeCow/AmoebaVirtualMachine/releases/tag/v3.8)
 
 
 ### How it works?
@@ -33,34 +33,17 @@ This is the operation codes also find a pdf version <a href ="/TheAmoebaV2Operat
 | 1111 | END | End program execution. |
 
 ### Example code
-<code>00100101
-00010000
-00100100
-00010001
-00000000
-00110001
-00010010
-11110000
-</code>
-This code does 4 + 5 (= 9) and stores the output.
+You can find example code [here](https://github.com/TheOrangeCow/AmoebaVirtualMachine/tree/main/examples)<br>
+You can find the code set [here](https://github.com/TheOrangeCow/AmoebaVirtualMachine/blob/main/docs/TheAmoebeV2OperationCodeSet.pdf)
 
-<code>
-00101111
-00010000
-00101100
-00010001
-00110000
-00110000
-00110000
-00110001
-11000000
-11110000
-</code>
-This code does 27 + 42 (= 69) and prints the output.
 
-### Pictures  
-<img width="397" height="325" alt="image" src="https://github.com/user-attachments/assets/0a3bfd81-6de6-4a02-9072-b7ecc6be3e8a" />
-<img width="393" height="420" alt="image" src="https://github.com/user-attachments/assets/d20de13d-30fc-44ee-ac8b-b2e713762399" />
+### Pictures 
+#### Setup
+<img width="592" height="461" alt="image" src="https://github.com/user-attachments/assets/59f758cc-d53e-4855-90c7-19d7a9fba941" />
+
+### App
+<img width="397" height="325" alt="image" src="https://github.com/user-attachments/assets/0a3bfd81-6de6-4a02-9072-b7ecc6be3e8a" /><br>
+<img width="393" height="420" alt="image" src="https://github.com/user-attachments/assets/d20de13d-30fc-44ee-ac8b-b2e713762399" /><br>
 <img width="674" height="621" alt="image" src="https://github.com/user-attachments/assets/fabaecfb-6070-44a5-b8ed-84de7ca44759" />
 
 
